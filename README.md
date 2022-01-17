@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lijinyu3 a undergraduate student of CS
 - 👀 I’m interested in playing the guitar
-- 🌱 I’m currently learning CS
+- 🌱 I’m learning CS currently
 - 📫 How to reach me "enotaa33@gmail.com"
 
 <!---
